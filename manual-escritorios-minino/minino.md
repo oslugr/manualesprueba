@@ -1,6 +1,6 @@
 ﻿Minino: Manual de usuario
 
-XIII Campaña Ordenadores Libres con Software Libre
+Campaña Ordenadores Libres con Software Libre
 
 ![by-nc.eu\_petit.png](images/image01.png) 
 
